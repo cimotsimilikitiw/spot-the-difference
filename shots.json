@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover-play.png", "query": "?scene=play-workshop" },
+  { "name": "2-market-hint.png", "query": "?scene=hint-market" },
+  { "name": "3-observatory-streak.png", "query": "?scene=observatory-streak" },
+  { "name": "4-stage-select.png", "query": "?scene=stage-select" }
+]
