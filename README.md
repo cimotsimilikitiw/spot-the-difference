@@ -1,4 +1,9 @@
-# Spot the Difference — Four Atelier Dioramas
+# Four Atelier Dioramas — Spot the Difference
+
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/cimotsimilikitiw/spot-the-difference/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/cimotsimilikitiw/spot-the-difference/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+
 
 [![Bounty](https://img.shields.io/badge/make.fun-best--spot--the--difference--game--20261121--0451-f5c542)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
 [![Repo](https://img.shields.io/badge/github-cimotsimilikitiw%2Fspot--the--difference-2ea44f)](https://github.com/cimotsimilikitiw/spot-the-difference)
